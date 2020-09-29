@@ -1,0 +1,9 @@
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/bin/Release/netcoreapp3.1/Neuralia.NClap.deps.json
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/bin/Release/netcoreapp3.1/Neuralia.NClap.dll
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/bin/Release/netcoreapp3.1/Neuralia.NClap.pdb
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/obj/Release/netcoreapp3.1/Neuralia.NClap.csprojAssemblyReference.cache
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/obj/Release/netcoreapp3.1/Neuralia.NClap.Strings.resources
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/obj/Release/netcoreapp3.1/Neuralia.NClap.csproj.GenerateResource.cache
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/obj/Release/netcoreapp3.1/Neuralia.NClap.csproj.CoreCompileInputs.cache
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/obj/Release/netcoreapp3.1/Neuralia.NClap.dll
+/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/obj/Release/netcoreapp3.1/Neuralia.NClap.pdb
