@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xD6FLwKdKKr6TTtOdpdywA7wFQjYthLh8j8QnBGjSWQd1KKl7CB+mdrh7NhuhOtxvUDMr6mbB7rwhV9jGLFSMA==",
+  "success": true,
+  "projectFilePath": "/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/Neuralia.NClap.csproj",
+  "expectedPackageFiles": [
+    "/home/jdb/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.7/microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "/home/jdb/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.7/microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}
