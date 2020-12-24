@@ -127,6 +127,12 @@ namespace Neuralia.NClap.Types
                 elementStrings = new[] { stringToParse };
             }
 
+            if (context.AllowEmpty)
+            {
+                if(stringToParse == "" || stringToParse == "[]" || stringToParse == "{}" || stringToParse == "\"\"")
+                    return ToCollection(new object[0]);
+            }
+            
             var parsedElements = elementStrings.Select(elementString =>
             {
                 if (!_elementArgumentType.TryParse(context, elementString, out object parsedElement))

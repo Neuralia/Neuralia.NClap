@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/Neuralia.NClap.csproj": {}
+    "/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/Neuralia.NClap.csproj": {}
   },
   "projects": {
-    "/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/Neuralia.NClap.csproj": {
+    "/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/Neuralia.NClap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/Neuralia.NClap.csproj",
+        "projectUniqueName": "/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/Neuralia.NClap.csproj",
         "projectName": "Neuralia.NClap",
-        "projectPath": "/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/Neuralia.NClap.csproj",
+        "projectPath": "/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/Neuralia.NClap.csproj",
         "packagesPath": "/home/jdb/.nuget/packages/",
-        "outputPath": "/home/jdb/work/Neuralia/projects/Github/Neuralia/Neuralia.NClap/src/Neuralia.NClap/obj/",
+        "outputPath": "/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
+          "/home/jdb/work/Neuralia/neuralium/nuget.config",
           "/home/jdb/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +23,7 @@
           "netstandard2.1"
         ],
         "sources": {
+          "/home/jdb/work/Neuralia/neuralium/nuget-source": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

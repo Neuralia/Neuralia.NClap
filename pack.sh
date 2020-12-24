@@ -1,9 +1,12 @@
 #!/bin/bash
 
-dotnet restore --no-cache
+cd src/Neuralia.NClap
 
-if dotnet build Neuralia.NClap.sln -c Release --no-incremental ; then
-    if  dotnet pack Neuralia.NClap.sln -c Release -o ./ ; then
+
+dotnet restore
+
+if dotnet build -c Release --no-incremental ; then
+    if  dotnet pack -c Release -o ../../ ; then
 	dotnet clean ;
          echo "pack completed"
     else
