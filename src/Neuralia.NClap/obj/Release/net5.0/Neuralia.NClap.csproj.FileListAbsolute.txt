@@ -1,0 +1,12 @@
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/bin/Release/net5.0/Neuralia.NClap.deps.json
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/bin/Release/net5.0/Neuralia.NClap.dll
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/bin/Release/net5.0/ref/Neuralia.NClap.dll
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/bin/Release/net5.0/Neuralia.NClap.pdb
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/obj/Release/net5.0/Neuralia.NClap.Strings.resources
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/obj/Release/net5.0/Neuralia.NClap.csproj.GenerateResource.cache
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/obj/Release/net5.0/Neuralia.NClap.GeneratedMSBuildEditorConfig.editorconfig
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/obj/Release/net5.0/Neuralia.NClap.csproj.CoreCompileInputs.cache
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/obj/Release/net5.0/Neuralia.NClap.dll
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/obj/Release/net5.0/ref/Neuralia.NClap.dll
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/obj/Release/net5.0/Neuralia.NClap.pdb
+/home/jdb/work/Neuralia/neuralium/Libraries/Neuralia.NClap/src/Neuralia.NClap/obj/Release/net5.0/Neuralia.NClap.csprojAssemblyReference.cache
